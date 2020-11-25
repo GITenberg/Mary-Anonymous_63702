@@ -1,0 +1,44 @@
+_repo: Mary-Anonymous_63702
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Emsh, Ed
+    - Emshwiller, Edmund A.
+    - Willer
+    - Alexander, Ed
+    - Emsh
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+creator:
+  author:
+    agent_name: Walton, Bryce
+    alias: O'Hara, Kenneth
+    birthdate: 1918
+    deathdate: 1988
+    gutenberg_agent_id: '33100'
+    url: http://www.gutenberg.org/2009/agents/33100
+    wikipedia: https://en.wikipedia.org/wiki/Bryce_Walton
+description: ''
+gutenberg_issued: '2020-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63702'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychological fiction'
+- !lcsh 'Sabotage -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'War stories'
+- GITenberg
+title: Mary Anonymous
+url: http://www.gutenberg.org/ebooks/63702
